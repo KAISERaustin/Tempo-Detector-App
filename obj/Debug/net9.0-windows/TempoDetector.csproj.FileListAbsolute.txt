@@ -1,0 +1,44 @@
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.exe
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.deps.json
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.runtimeconfig.json
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.dll
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.pdb
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector_MarkupCompile.cache
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.g.resources
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.AssemblyInfoInputs.cache
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.AssemblyInfo.cs
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.csproj.CoreCompileInputs.cache
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.dll
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\refint\TempoDetector.dll
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.pdb
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.genruntimeconfig.cache
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\ref\TempoDetector.dll
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\Themes\Styles.baml
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\TempoDetector_MarkupCompile.lref
+C:\Users\3ak33\OneDrive\Desktop\CreativeCodingCourseMaterial\TempoDetector\obj\Debug\net9.0-windows\App.baml
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.exe
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.deps.json
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.runtimeconfig.json
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.dll
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\bin\Debug\net9.0-windows\TempoDetector.pdb
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\Themes\Styles.baml
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector_MarkupCompile.cache
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector_MarkupCompile.lref
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\App.baml
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.g.resources
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.AssemblyInfoInputs.cache
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.AssemblyInfo.cs
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.csproj.CoreCompileInputs.cache
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.dll
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\refint\TempoDetector.dll
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.pdb
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\TempoDetector.genruntimeconfig.cache
+C:\Users\DSU\OneDrive - Dakota State University\Desktop\Creative Coding\TempoDetector\obj\Debug\net9.0-windows\ref\TempoDetector.dll

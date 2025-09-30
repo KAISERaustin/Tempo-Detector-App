@@ -1,0 +1,30 @@
+﻿<Window x:Class="TempoDetector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tempo Detector"
+        Height="250" Width="300"
+        Background="{DynamicResource WindowBackgroundBrush}"
+        WindowStartupLocation="CenterScreen">
+
+  <Grid>
+    <Border CornerRadius="8"
+            Background="#33000000"
+            Padding="20"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center">
+
+      <StackPanel>
+        <Button Name="tapButton"
+                Content="Tap"
+                Width="120" Height="60"
+                Click="TapButton_Click"/>
+        <TextBlock Name="tempoText"
+                   Text="Tempo: -- BPM"
+                   FontSize="18"
+                   Margin="0,15,0,0"
+                   HorizontalAlignment="Center"/>
+      </StackPanel>
+
+    </Border>
+  </Grid>
+</Window>
