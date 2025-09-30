@@ -1,8 +1,6 @@
-# WPF Dual-Mode Tempo Detector
+# WPF Tempo Detector
 
 A responsive desktop application built with C# and WPF to accurately determine the Beats Per Minute (BPM) of a song through two methods: manual user tapping and automatic audio file analysis.
-
----
 
 ## About The Project
 
@@ -11,14 +9,10 @@ This project provides a simple and effective tool for musicians, DJs, and produc
 * **Manual Tap-Tempo:** A straightforward method where the user taps a button in time with the music to calculate the BPM.
 * **Automatic Audio Analysis:** An advanced feature that analyzes an audio file (MP3 or WAV) to detect its tempo automatically.
 
----
-
 ## Features
 
 ### Current Features
 * **Manual BPM Detection:** Users can click the "Tap" button repeatedly to calculate the tempo. The BPM is calculated based on the average interval of the last several taps.
-
----
 
 ## Technology Stack
 
@@ -26,8 +20,6 @@ This project provides a simple and effective tool for musicians, DJs, and produc
 * **C#**
 * **Windows Presentation Foundation (WPF)**
 * **NAudio** 
-
----
 
 ## Getting Started
 
@@ -40,7 +32,7 @@ To get a local copy up and running, follow these steps.
 ### Installation
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/your-username/TempoDetector.git](https://github.com/your-username/TempoDetector.git)
+    git clone https://github.com/KAISERaustin/Tempo-Detector-App.git
     ```
 2.  Open the solution file (`TempoDetector.sln`) in Visual Studio.
 3.  Build the solution to restore NuGet packages.
